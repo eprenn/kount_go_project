@@ -1,0 +1,10 @@
+mode: set
+my_func/my_func.go:8.57,13.19 4 1
+my_func/my_func.go:18.5,19.19 2 1
+my_func/my_func.go:24.5,25.33 2 1
+my_func/my_func.go:31.5,31.29 1 1
+my_func/my_func.go:13.19,16.6 2 1
+my_func/my_func.go:19.19,22.6 2 0
+my_func/my_func.go:25.33,26.33 1 1
+my_func/my_func.go:26.33,29.10 2 1
+my_func/my_func.go:34.13,36.2 1 0

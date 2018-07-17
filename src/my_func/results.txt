@@ -1,0 +1,14 @@
+open never seen: no such file or directory
+open : no such file or directory
+PASS
+coverage: 77.8% of statements
+ok  	my_func	0.004s
+open never seen: no such file or directory
+open : no such file or directory
+goos: linux
+goarch: amd64
+pkg: my_func
+BenchmarkPrintDirSeveralFiles-8   	   50000	     29990 ns/op
+BenchmarkPrintDirOneFile-8        	  100000	     19241 ns/op
+PASS
+ok  	my_func	3.935s

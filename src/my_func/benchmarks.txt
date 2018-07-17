@@ -1,0 +1,9 @@
+open never seen: no such file or directory
+open : no such file or directory
+goos: linux
+goarch: amd64
+pkg: my_func
+BenchmarkPrintDirSeveralFiles-8   	   50000	     31809 ns/op
+BenchmarkPrintDirOneFile-8        	  100000	     18868 ns/op
+PASS
+ok  	my_func	3.987s
